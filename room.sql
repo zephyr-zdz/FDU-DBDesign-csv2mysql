@@ -1,4 +1,4 @@
-create table room
+create table if not exists room
 (
     kdno      int          not null,
     kcno      int          not null,

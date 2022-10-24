@@ -1,9 +1,8 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="DatabaseLab1:jar">
+  <artifact type="jar" build-on-make="true" name="DatabaseLab1:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/DatabaseLab1_jar</output-path>
     <root id="archive" name="DatabaseLab1.jar">
       <element id="module-output" name="DatabaseLab1" />
-      <element id="library" level="project" name="lib" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/sourceforge/javacsv/javacsv/2.0/javacsv-2.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar" path-in-jar="/" />
