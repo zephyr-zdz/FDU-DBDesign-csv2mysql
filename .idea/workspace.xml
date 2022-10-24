@@ -9,20 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c817714-f3d3-46d1-975e-21409147a171" name="变更" comment="init 初稿">
-      <change afterPath="$PROJECT_DIR$/conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dazhi/Arraylist2SQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DatabaseLab1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DatabaseLab1_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2e6458ea-0646-4c16-baec-0400239e9d9f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2e6458ea-0646-4c16-baec-0400239e9d9f.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/DatabaseLab1_jar/DatabaseLab1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/DatabaseLab1_jar/DatabaseLab1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room.sql" beforeDir="false" afterPath="$PROJECT_DIR$/room.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dazhi/DBUtil/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dazhi/DBUtil/DBUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dazhi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dazhi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dazhi/csv2ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dazhi/Csv2ArrayList.java" afterDir="false" />
-    </list>
+    <list default="true" id="8c817714-f3d3-46d1-975e-21409147a171" name="变更" comment="修改了一些bug 增加了动态产生SQL语句的功能" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +138,7 @@
       <workItem from="1666510078139" duration="212000" />
       <workItem from="1666530124669" duration="598000" />
       <workItem from="1666591246448" duration="16628000" />
-      <workItem from="1666612733743" duration="1130000" />
+      <workItem from="1666612733743" duration="1648000" />
     </task>
     <task id="LOCAL-00001" summary="init 初稿">
       <created>1666440576133</created>
@@ -160,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666440576133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改了一些bug 增加了动态产生SQL语句的功能">
+      <created>1666614083514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666614083514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init 初稿" />
-    <option name="LAST_COMMIT_MESSAGE" value="init 初稿" />
+    <MESSAGE value="修改了一些bug 增加了动态产生SQL语句的功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了一些bug 增加了动态产生SQL语句的功能" />
   </component>
 </project>
